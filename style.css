@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Dancing Script', cursive;/*cursive is the fallback in case the google font fails to load*/
+
+}
+h1{
+    font-size: 50px;
+    color:#222;
+    line-height: 64px;
+}
+h2{
+    font-size:46px ;
+    line-height: 54px;
+    color: #222;
+
+}
+h4{
+    font-size:20px ;
+    color: #222;
+}
+h6{
+    font-weight: 700;
+    font-size: 12px;
+}
